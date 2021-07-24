@@ -1,3 +1,7 @@
+<p align="center">
+  <img align= "center" src="https://drive.google.com/uc?export=view&id=1WgZHCHX8LbjJODPuKHmz_QgTqYGi50Yo" style=" align: center ; width: 650px;  height: 320px"  title="Akshat Sachan" />
+  
+</p>
 <h1 align="center">Welcome to Flutter Local-Auth App (Android) 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
