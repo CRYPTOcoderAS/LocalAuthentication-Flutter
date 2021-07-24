@@ -16,10 +16,10 @@
 
 
 <p align="center">
-  <img src="./images/s1.jpeg" alt="accessibility text">
-  <img src="./images/s2.jpeg" title="hover text">
-  <img src="./images/s3.jpeg" alt="accessibility text">
-  <img src="./images/s4.jpeg" title="hover text">
+  <img src="./images/s1.jpeg" width= "320" alt="accessibility text">
+  <img src="./images/s2.jpeg" width= "320"  title="hover text">
+  <img src="./images/s3.jpeg" width= "320" alt="accessibility text">
+  <img src="./images/s4.jpeg" width= "320" title="hover text">
  
 </p>
 
